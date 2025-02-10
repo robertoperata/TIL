@@ -6,4 +6,4 @@ This is a repository of anything I learn during the day inspired by Josh Brancha
 
 ## ArgoCD
 
-* [Enrich tocken with user properties](ArgoCD/Enrich-tocken- with- user-properties.md)
+* [Enrich token with user properties](ArgoCD/enrich-tocken-with-user-properties.md)
