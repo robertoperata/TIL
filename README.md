@@ -7,3 +7,4 @@ This is a repository of anything I learn during the day inspired by Josh Brancha
 ## ArgoCD
 
 * [Enrich token with user properties](ArgoCD/enrich-tocken-with-user-properties.md)
+* [Evaluate generated UserInfo](ArgoCD/evaluate-generated-user-info.md)
