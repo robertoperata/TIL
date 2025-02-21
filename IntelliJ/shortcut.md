@@ -7,7 +7,9 @@
 ### Navigate from an implementation up 
 - Press command U
 
-
+### Navigate back/forward
+- command + option + [
+- command + option + ]
 
 
 
