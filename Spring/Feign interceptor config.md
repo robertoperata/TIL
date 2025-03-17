@@ -21,3 +21,14 @@ public class FeignConfig {
     }
 }
 ```
+
+```
+
+@FeignClient(name = "communicator-email",
+        url = "${email.communicator.endpoint}",
+        configuration = FeignConfig.class)
+public interface CommunicatorClient {
+...
+}
+
+```
