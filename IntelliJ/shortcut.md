@@ -19,3 +19,6 @@
 
 - command B is *usage*
  
+
+### Reformat record element on separate lines
+- put the cursor inside record argument option + enter
