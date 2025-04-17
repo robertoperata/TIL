@@ -15,7 +15,8 @@
 - command + option + [
 - command + option + ]
 
-
+### Show list of methods of current classa (File Structure)
+- command + F12
 
 - command B is *usage*
  
