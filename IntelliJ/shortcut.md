@@ -23,3 +23,6 @@
 
 ### Reformat record element on separate lines
 - put the cursor inside record argument option + enter
+
+### Pop-up to create Test, Constructor, Override methods etc
+- command + N
