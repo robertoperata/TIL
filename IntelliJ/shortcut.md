@@ -7,6 +7,8 @@
 ### Navigate from a super method down to implementation
 - Press option + command B to navigate.
 
+### Show usage
+- control + option + u
 
 ### Navigate from an implementation up 
 - Press command U
